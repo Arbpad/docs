@@ -13,6 +13,7 @@
   * [FOR USER](master/for-user.md)
   * [NOTICES](master/notices.md)
   * [DISCLAIMER](master/disclaimer.md)
+* [TOKENOMICS](tokenomics.md)
 * [AIRDROP](airdrop/README.md)
   * [XSNAKE](airdrop/xsnake.md)
 * [IDO](ido.md)
