@@ -2,5 +2,5 @@
 description: TBA
 ---
 
-# IDO
+# AIRDROP
 
