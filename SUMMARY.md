@@ -14,6 +14,5 @@
   * [NOTICES](master/notices.md)
   * [DISCLAIMER](master/disclaimer.md)
 * [TOKENOMICS](tokenomics.md)
-* [AIRDROP](airdrop/README.md)
-  * [XSNAKE](airdrop/xsnake.md)
+* [AIRDROP](airdrop.md)
 * [IDO](ido.md)
