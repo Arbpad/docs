@@ -16,5 +16,3 @@ Before a project is put on the ArbPad , they all have to go through a rigorous r
 * Strong and dedicated team Potential to benefit growth and development of the broader crypto ecosystem&#x20;
 
 When a project passes this selection process, it will appear on ArbPad
-
-We support lo launch token on many chain: erc20-trc20-bep20
